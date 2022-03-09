@@ -35,3 +35,5 @@ print(conta_do_gui)
 
 guilherme = ('Guilherme', 37, 1981)
 daniela = ('Daniela', 35, 1980)
+
+usuarios = (guilherme, daniela, ('João', 30, 1975))
